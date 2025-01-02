@@ -1,0 +1,1 @@
+pip install pandas numpy matplotlib seaborn scipy scikit-learn jupyter openpyxl plotly
