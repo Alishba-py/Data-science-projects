@@ -45,3 +45,4 @@ Barcode and QR Code Generation: Generating barcodes and QR codes using Python.
 Miscellaneous
 Breast Cancer Detection: Predicting breast cancer presence using machine learning.
 Data Analysis Dashboard: A dashboard to visualize and analyze data interactively.
+
